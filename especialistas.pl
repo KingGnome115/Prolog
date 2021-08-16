@@ -5,4 +5,5 @@ especialistas(pepe,'algoritmos genericos').
 especialistas(sonia,'busqueda en grafos').
 especialistas(juan,'logica de primer orden').
 especialista(rodrigo,'aprendizaje supervisado').
-/*suma(A,B,C):-C is A*B.*/
+suma(A,B,C):-C is A+B.
+multip(A,B,C):-C is A*B.
